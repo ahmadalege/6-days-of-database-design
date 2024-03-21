@@ -1,0 +1,12 @@
+Requirements
+
+1. User can create account and login to the site
+2. Users can have phone numbers 
+3. users can have more than one address and specify a default address
+4. Users can have one or more payment method to their account and must set a default type
+5.  store products and categories can belong to other categories
+6.  Each category has variations(colour, size)
+7.  Visitors can add one or more shopping carts as part of their experiences, shopping carts are not saved unless they are logged in
+8. Specify paymet details and address as part of placing an order
+9. Users can review products(5 star rating and comment)
+10. Promotions/sales can be run on categories
